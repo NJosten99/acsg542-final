@@ -6,10 +6,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint '**/*.js' '**/*.jsx'"
-    "test": "jest --coverage"
-  },
-  "jest": {
-    "coverageDirectory": "./.coverage"
   },
   "dependencies": {
     "@emotion/cache": "^11.7.1",
