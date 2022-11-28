@@ -7,8 +7,8 @@ import { styleLoginButton } from '../components/SharedStyles';
 const Login = () => (
   <div style={{ textAlign: 'center', margin: '0 20px' }}>
     <Head>
-      <title>Log in to APP NAME PLACEHOLDER</title>
-      <meta name="description" content="Login page for APP NAME PLACEHOLDER" />
+      <title>Log in</title>
+      <meta name="description" content="Login page for Town^2" />
     </Head>
     <br />
     <p style={{ margin: '45px auto', fontSize: '44px', fontWeight: '400' }}>Log in</p>
@@ -18,7 +18,7 @@ const Login = () => (
       <img
         src="https://storage.googleapis.com/builderbook/G.svg"
         alt="Log in with Google"
-        style={{ marginRight: '10px' }}
+        style={{ marginRight: '15px' }}
       />
       Log in with Google
     </Button>

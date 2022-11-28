@@ -10,7 +10,7 @@ const styleRaisedButton = {
 };
 
 const styleToolbar = {
-  background: '#FFF',
+  background: '#0000FF',
   height: '64px',
   paddingRight: '20px',
 };
@@ -33,7 +33,7 @@ const styleTextField = {
 
 const styleForm = {
   margin: '7% auto',
-  width: '360px',
+  width: '800px',
 };
 
 const styleGrid = {
